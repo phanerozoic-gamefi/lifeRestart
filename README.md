@@ -51,4 +51,10 @@ npm run dev
 node repl
 ```
 
+```bash
+node repl-auto [seed] [id]
+# default seed: Phanerozoic
+# default id: 1, ${id}.txt will be auto generated
+```
+
 > More instructions at [documentation](https://liferestart.syaro.io/)。

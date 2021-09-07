@@ -51,4 +51,10 @@ npm run dev
 node repl
 ```
 
+```bash
+node repl-auto [种子] [id]
+# 默认种子: Phanerozoic
+# 默认id: 1, ${id}.txt 会在执行完毕后生成
+```
+
 > 更多信息请参考 [官网文档](https://liferestart.syaro.io/)。
